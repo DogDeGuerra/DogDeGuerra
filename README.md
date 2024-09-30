@@ -11,4 +11,5 @@ DogDeGuerra/DogDeGuerra is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Uploading elden-ring-icegif.gif…]()
+
+![download](https://github.com/user-attachments/assets/720ceae9-4db2-4310-b7ee-80e688699d7f)
