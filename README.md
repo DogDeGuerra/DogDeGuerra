@@ -1,3 +1,6 @@
+![images](https://github.com/user-attachments/assets/a6643928-07c5-42aa-8c99-c11baeb97051)
+
+
 - 👋 Opa fi bão? I’m @DogDeGuerra
 - 🌱 Atualmente estou aprendendo a fazer wall drag.
 - 🤔 Estou procurando ajuda com o rocket league
@@ -12,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![images](https://github.com/user-attachments/assets/a6643928-07c5-42aa-8c99-c11baeb97051)
+
