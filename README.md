@@ -1,4 +1,5 @@
-![images](https://github.com/user-attachments/assets/a6643928-07c5-42aa-8c99-c11baeb97051)
+
+![2915093678_preview_1169015](https://github.com/user-attachments/assets/42660d2b-46ce-4144-8706-0899f6671c3c)
 
 
 - 👋 Opa fi bão? I’m @DogDeGuerra
